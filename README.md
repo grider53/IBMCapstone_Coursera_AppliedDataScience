@@ -1,2 +1,2 @@
 # IBMCapstone_Coursera_AppliedDataScience
-my first test repository
+This GIT repository is fo the final Capstone in the Coursera Course IBM Applied Data Science
